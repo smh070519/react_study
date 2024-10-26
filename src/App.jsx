@@ -1,5 +1,5 @@
 import './App.css';
-import FoodContainer from './docs/map/basic/FoodContainer';
+import Name from './docs/ref/Name';
 
 
 
@@ -8,7 +8,7 @@ import FoodContainer from './docs/map/basic/FoodContainer';
 function App() {
   return (
     <>
-      <FoodContainer/>
+      <Name/>
     </>
   );
 }
